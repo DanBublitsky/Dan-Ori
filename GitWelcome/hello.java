@@ -8,5 +8,6 @@ public class hello
 		System.out.println("Hello Git!");
 		
 		System.out.println("My name is dan");
+		System.out.println("My name is ori");
 	}
 }
